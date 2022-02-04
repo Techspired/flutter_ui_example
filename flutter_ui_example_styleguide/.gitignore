@@ -45,8 +45,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-flutter_ui_example_app/android
-flutter_ui_example_app/build
-flutter_ui_example_app/ios
-flutter_ui_example_styleguide/android
-flutter_ui_example_styleguide/ios
